@@ -1,0 +1,40 @@
+.header{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+ul,li{
+    display: inline-block;
+}
+ul{
+    
+    color: gray;
+}
+h1{
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.box{
+    display: inline-block;
+    border: 5px;
+    border-color: black ;
+    border-style: solid;
+    width: 220px;
+    margin-top: 20px;
+}
+.product{
+    text-align: center;
+    background-color: white;
+    color: black;
+}
+p:hover{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+.contact{
+    text-align: center;
+    background-color: black;
+    color: white;
+    
+}
